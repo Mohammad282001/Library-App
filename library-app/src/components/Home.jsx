@@ -1,13 +1,12 @@
 import React from "react";
-import MainComp from "./MainComponent";
-import FooterComp from "./FooterComponent";
-import HeaderComp from "./HeaderComponent";
+// import Navbar from "./navbar";
+import Main from "./main";
+
+
 
 function Home(){
     return (<>
-        <HeaderComp />
-        <MainComp />
-        <FooterComp />
+        <Main/>
     </>)
 }
 

@@ -1,7 +1,7 @@
 import React from "react";
-import CardsComp from "./CardsComponent";
+import CardsComp from "./initState";
 
-function MainComp(props) {
+function Main(props) {
     return (
         <main>
             <section className="book-list">
@@ -17,4 +17,4 @@ function MainComp(props) {
     );
 }
 
-export default MainComp;
+export default Main;
