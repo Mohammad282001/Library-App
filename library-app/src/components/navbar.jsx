@@ -38,16 +38,20 @@ function Navbar() {
           <li>
             <Link to={"/contact"}>Contact</Link>
           </li>
+          <li>
+            <Link to={"/bookcatalog"}>Book Catalog</Link>
+          </li>
           <div className="nav-buttons">
             <li>
-              {isLogin ? (
-                <button style={buttonStyle} onClick={logoutFunc}>
-                  Logout
-                </button>
-              ) : (
+              {!isLogin && (
                 <Link to={"/signup"}>
                   <button style={buttonStyle}>Sign up</button>
                 </Link>
+              )}
+              {isLogin && (
+                <button style={buttonStyle} onClick={logoutFunc}>
+                  Logout
+                </button>
               )}
             </li>
           </div>

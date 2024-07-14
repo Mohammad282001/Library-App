@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A novel set in the 1920s that tells the story of Jay Gatsby's love for Daisy Buchanan.",
+    "coverImage": "link_to_cover_image_1",
+    "softDeleted": false
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A novel about the serious issues of rape and racial inequality narrated by a young girl.",
+    "coverImage": "link_to_cover_image_2",
+    "softDeleted": false
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel set in a totalitarian society under constant surveillance.",
+    "coverImage": "link_to_cover_image_3",
+    "softDeleted": false
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+    "coverImage": "link_to_cover_image_4",
+    "softDeleted": false
+  },
+  {
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "description": "The narrative of Captain Ahab's obsessive quest to kill the white whale, Moby-Dick.",
+    "coverImage": "link_to_cover_image_5",
+    "softDeleted": false
+  },
+  {
+    "id": 6,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "description": "A novel that intertwines the lives of private and public individuals during the Napoleonic wars.",
+    "coverImage": "link_to_cover_image_6",
+    "softDeleted": false
+  },
+  {
+    "id": 7,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "description": "An epic poem that chronicles Odysseus's 10-year struggle to return home after the Trojan War.",
+    "coverImage": "link_to_cover_image_7",
+    "softDeleted": false
+  },
+  {
+    "id": 8,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "A psychological novel that explores the moral dilemmas of a young student who commits murder.",
+    "coverImage": "link_to_cover_image_8",
+    "softDeleted": false
+  },
+  {
+    "id": 9,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A novel about teenage angst and alienation, narrated by the iconic character Holden Caulfield.",
+    "coverImage": "link_to_cover_image_9",
+    "softDeleted": false
+  },
+  {
+    "id": 10,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "description": "A philosophical novel that delves into ethical debates of God, free will, and morality.",
+    "coverImage": "link_to_cover_image_10",
+    "softDeleted": false
+  },
+  {
+    "id": 11,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "A dystopian novel set in a futuristic World State, where society is kept harmonious by genetic engineering.",
+    "coverImage": "link_to_cover_image_11",
+    "softDeleted": false
+  },
+  {
+    "id": 12,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "description": "A novel that follows the experiences of the orphaned Jane Eyre as she matures into adulthood.",
+    "coverImage": "link_to_cover_image_12",
+    "softDeleted": false
+  },
+  {
+    "id": 13,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "description": "A tragic love story set on the Yorkshire moors, focusing on the turbulent relationship between Heathcliff and Catherine Earnshaw.",
+    "coverImage": "link_to_cover_image_13",
+    "softDeleted": false
+  },
+  {
+    "id": 14,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "description": "An epic poem describing Dante's journey through Hell, Purgatory, and Paradise.",
+    "coverImage": "link_to_cover_image_14",
+    "softDeleted": false
+  },
+  {
+    "id": 15,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy novel about the adventures of Bilbo Baggins in Middle-earth.",
+    "coverImage": "link_to_cover_image_15",
+    "softDeleted": false
+  },
+  {
+    "id": 16,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "description": "A dystopian novel about a future society where books are banned and 'firemen' burn any that are found.",
+    "coverImage": "link_to_cover_image_16",
+    "softDeleted": false
+  },
+  {
+    "id": 17,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the quest to destroy the One Ring and defeat Sauron.",
+    "coverImage": "link_to_cover_image_17",
+    "softDeleted": false
+  },
+  {
+    "id": 18,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "description": "An allegorical novella reflecting events leading up to the Russian Revolution of 1917.",
+    "coverImage": "link_to_cover_image_18",
+    "softDeleted": false
+  },
+  {
+    "id": 19,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "description": "A novel about a young scientist who creates a grotesque creature in an unorthodox scientific experiment.",
+    "coverImage": "link_to_cover_image_19",
+    "softDeleted": false
+  },
+  {
+    "id": 20,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "description": "A philosophical novel about a man who remains young and beautiful while his portrait ages and shows his moral corruption.",
+    "coverImage": "link_to_cover_image_20",
+    "softDeleted": false
+  },
+  {
+    "id": 21,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "description": "A multi-generational story of the Buendía family in the fictional town of Macondo.",
+    "coverImage": "link_to_cover_image_21",
+    "softDeleted": false
+  },
+  {
+    "id": 22,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "description": "A gothic horror novel that introduces Count Dracula and his attempt to move from Transylvania to England.",
+    "coverImage": "link_to_cover_image_22",
+    "softDeleted": false
+  },
+  {
+    "id": 23,
+    "title": "The Iliad",
+    "author": "Homer",
+    "description": "An epic poem set during the Trojan War, focusing on the hero Achilles.",
+    "coverImage": "link_to_cover_image_23",
+    "softDeleted": false
+  },
+  {
+    "id": 24,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "description": "A story of an innocent man wrongfully imprisoned who escapes and seeks revenge on his enemies.",
+    "coverImage": "link_to_cover_image_24",
+    "softDeleted": false
+  },
+  {
+    "id": 25,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "description": "A novel set in post-revolutionary France, following the lives and interactions of several characters, particularly ex-convict Jean Valjean.",
+    "coverImage": "link_to_cover_image_25",
+    "softDeleted": false
+  }
+]

@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.book-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: 300px; /* Adjust width as per your design */
+  display: inline-block;
+  vertical-align: top;
+}
+
+.book-card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.book-title {
+  margin-bottom: 10px;
+}
+
+.book-author {
+  margin-bottom: 0;
+}
+
