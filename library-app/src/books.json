@@ -4,7 +4,7 @@
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "description": "A novel set in the 1920s that tells the story of Jay Gatsby's love for Daisy Buchanan.",
-    "coverImage": "link_to_cover_image_1",
+    "coverImage": "https://static01.nyt.com/images/2013/04/26/business/Gatsbyjp/Gatsbyjp-superJumbo.jpg",
     "softDeleted": false
   },
   {
@@ -12,7 +12,7 @@
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "description": "A novel about the serious issues of rape and racial inequality narrated by a young girl.",
-    "coverImage": "link_to_cover_image_2",
+    "coverImage": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -20,7 +20,7 @@
     "title": "1984",
     "author": "George Orwell",
     "description": "A dystopian novel set in a totalitarian society under constant surveillance.",
-    "coverImage": "link_to_cover_image_3",
+    "coverImage": "https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF894,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -28,7 +28,7 @@
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
-    "coverImage": "link_to_cover_image_4",
+    "coverImage": "https://m.media-amazon.com/images/I/91FldvTHNvL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -36,7 +36,7 @@
     "title": "Moby-Dick",
     "author": "Herman Melville",
     "description": "The narrative of Captain Ahab's obsessive quest to kill the white whale, Moby-Dick.",
-    "coverImage": "link_to_cover_image_5",
+    "coverImage": "https://m.media-amazon.com/images/I/616R20nvohL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -44,7 +44,7 @@
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "description": "A novel that intertwines the lives of private and public individuals during the Napoleonic wars.",
-    "coverImage": "link_to_cover_image_6",
+    "coverImage": "https://m.media-amazon.com/images/I/81oHM-dzefL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -52,7 +52,7 @@
     "title": "The Odyssey",
     "author": "Homer",
     "description": "An epic poem that chronicles Odysseus's 10-year struggle to return home after the Trojan War.",
-    "coverImage": "link_to_cover_image_7",
+    "coverImage": "https://images.booksense.com/images/059/089/9780393089059.jpg",
     "softDeleted": false
   },
   {
@@ -60,7 +60,7 @@
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "description": "A psychological novel that explores the moral dilemmas of a young student who commits murder.",
-    "coverImage": "link_to_cover_image_8",
+    "coverImage": "https://m.media-amazon.com/images/I/71O2XIytdqL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -68,7 +68,7 @@
     "title": "The Catcher in the Rye",
     "author": "J.D. Salinger",
     "description": "A novel about teenage angst and alienation, narrated by the iconic character Holden Caulfield.",
-    "coverImage": "link_to_cover_image_9",
+    "coverImage": "https://m.media-amazon.com/images/I/614LavjvoLL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -76,7 +76,7 @@
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoevsky",
     "description": "A philosophical novel that delves into ethical debates of God, free will, and morality.",
-    "coverImage": "link_to_cover_image_10",
+    "coverImage": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -84,7 +84,7 @@
     "title": "Brave New World",
     "author": "Aldous Huxley",
     "description": "A dystopian novel set in a futuristic World State, where society is kept harmonious by genetic engineering.",
-    "coverImage": "link_to_cover_image_11",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
     "softDeleted": false
   },
   {
@@ -92,7 +92,7 @@
     "title": "Jane Eyre",
     "author": "Charlotte Brontë",
     "description": "A novel that follows the experiences of the orphaned Jane Eyre as she matures into adulthood.",
-    "coverImage": "link_to_cover_image_12",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692725440i/197321006.jpg",
     "softDeleted": false
   },
   {
@@ -100,7 +100,7 @@
     "title": "Wuthering Heights",
     "author": "Emily Brontë",
     "description": "A tragic love story set on the Yorkshire moors, focusing on the turbulent relationship between Heathcliff and Catherine Earnshaw.",
-    "coverImage": "link_to_cover_image_13",
+    "coverImage": "https://m.media-amazon.com/images/I/61Ap7QjGMjL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -108,7 +108,7 @@
     "title": "The Divine Comedy",
     "author": "Dante Alighieri",
     "description": "An epic poem describing Dante's journey through Hell, Purgatory, and Paradise.",
-    "coverImage": "link_to_cover_image_14",
+    "coverImage": "https://m.media-amazon.com/images/I/A1I2Kx625BL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -116,7 +116,7 @@
     "title": "The Hobbit",
     "author": "J.R.R. Tolkien",
     "description": "A fantasy novel about the adventures of Bilbo Baggins in Middle-earth.",
-    "coverImage": "link_to_cover_image_15",
+    "coverImage": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -124,7 +124,7 @@
     "title": "Fahrenheit 451",
     "author": "Ray Bradbury",
     "description": "A dystopian novel about a future society where books are banned and 'firemen' burn any that are found.",
-    "coverImage": "link_to_cover_image_16",
+    "coverImage": "https://m.media-amazon.com/images/I/61z7RDG3OIL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -132,7 +132,7 @@
     "title": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
     "description": "An epic fantasy trilogy following the quest to destroy the One Ring and defeat Sauron.",
-    "coverImage": "link_to_cover_image_17",
+    "coverImage": "https://m.media-amazon.com/images/I/412JSB73D2L._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -140,7 +140,7 @@
     "title": "Animal Farm",
     "author": "George Orwell",
     "description": "An allegorical novella reflecting events leading up to the Russian Revolution of 1917.",
-    "coverImage": "link_to_cover_image_18",
+    "coverImage": "https://m.media-amazon.com/images/I/71je3-DsQEL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -148,7 +148,7 @@
     "title": "Frankenstein",
     "author": "Mary Shelley",
     "description": "A novel about a young scientist who creates a grotesque creature in an unorthodox scientific experiment.",
-    "coverImage": "link_to_cover_image_19",
+    "coverImage": "https://m.media-amazon.com/images/I/515zE1GxvAL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -156,7 +156,7 @@
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
     "description": "A philosophical novel about a man who remains young and beautiful while his portrait ages and shows his moral corruption.",
-    "coverImage": "link_to_cover_image_20",
+    "coverImage": "https://m.media-amazon.com/images/I/51IPe62r8gL._AC_UF1000,1000_QL80_.jpg",
     "softDeleted": false
   },
   {
@@ -164,7 +164,7 @@
     "title": "One Hundred Years of Solitude",
     "author": "Gabriel García Márquez",
     "description": "A multi-generational story of the Buendía family in the fictional town of Macondo.",
-    "coverImage": "link_to_cover_image_21",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320.jpg",
     "softDeleted": false
   },
   {
@@ -172,7 +172,7 @@
     "title": "Dracula",
     "author": "Bram Stoker",
     "description": "A gothic horror novel that introduces Count Dracula and his attempt to move from Transylvania to England.",
-    "coverImage": "link_to_cover_image_22",
+    "coverImage": "https://cdn.penguin.co.uk/dam-assets/books/9780099582595/9780099582595-jacket-large.jpg",
     "softDeleted": false
   },
   {
@@ -180,7 +180,7 @@
     "title": "The Iliad",
     "author": "Homer",
     "description": "An epic poem set during the Trojan War, focusing on the hero Achilles.",
-    "coverImage": "link_to_cover_image_23",
+    "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681797700l/77265004.jpg",
     "softDeleted": false
   },
   {
@@ -188,7 +188,7 @@
     "title": "The Count of Monte Cristo",
     "author": "Alexandre Dumas",
     "description": "A story of an innocent man wrongfully imprisoned who escapes and seeks revenge on his enemies.",
-    "coverImage": "link_to_cover_image_24",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692339248i/197029269.jpg",
     "softDeleted": false
   },
   {
@@ -196,7 +196,7 @@
     "title": "Les Misérables",
     "author": "Victor Hugo",
     "description": "A novel set in post-revolutionary France, following the lives and interactions of several characters, particularly ex-convict Jean Valjean.",
-    "coverImage": "link_to_cover_image_25",
+    "coverImage": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781626864641/les-miserables-9781626864641_lg.jpg",
     "softDeleted": false
   }
 ]

@@ -7,20 +7,19 @@ import Signup from "./pages/signup";
 import Footer from "./components/footer";
 import BookCatalog from "./pages/bookcatalog";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { db } from "./firebase";
+import { db } from "./firebase"; // Make sure db refers to Realtime Database
 import booksData from "./books.json";
-import { collection, getDocs, addDoc } from "firebase/firestore"; // Import Firestore functions
+import { ref, get, set } from "firebase/database"; // Import Realtime Database functions
 
 function App() {
   useEffect(() => {
     const importBooks = async () => {
-      const booksCollection = collection(db, "books");
-
-      // Check if books already exist in the collection
-      const snapshot = await getDocs(booksCollection);
-      if (snapshot.empty) {
+      const booksRef = ref(db, "books");
+      const snapshot = await get(booksRef);
+      if (!snapshot.exists()) {
         booksData.forEach(async (book) => {
-          await addDoc(booksCollection, book);
+          const newBookRef = ref(db, `books/${book.id}`);
+          await set(newBookRef, book);
         });
       } else {
         console.log("Books already imported.");

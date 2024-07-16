@@ -1,22 +1,32 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-import { getFirestore, updateDoc,doc } from "firebase/firestore";
+
+import { getDatabase } from "firebase/database";
+
+// Your web app's Firebase configuration
+// Import the functions you need from the SDKs you need
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCNb4qzEkm38TAB1R8PejeWJF6-zfd4pCw",
-  authDomain: "book-library-20eb4.firebaseapp.com",
-  projectId: "book-library-20eb4",
-  storageBucket: "book-library-20eb4.appspot.com",
-  messagingSenderId: "974652545534",
-  appId: "1:974652545534:web:62c4eee57a8709c3fb48af",
+  apiKey: "AIzaSyDeCb7uDdWktP084lnAMi-DL4EwWjctj3E",
+  authDomain: "booking-259c4.firebaseapp.com",
+  projectId: "booking-259c4",
+  storageBucket: "booking-259c4.appspot.com",
+  messagingSenderId: "333202038313",
+  appId: "1:333202038313:web:e191e25faefd58aa0dc638",
 };
 
 // Initialize Firebase
+
+// Initialize Firebase
 const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
+const db = getDatabase(app);
 
 export { db };
-export { updateDoc };
-export { doc };
+
+
+
+
   

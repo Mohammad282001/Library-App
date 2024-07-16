@@ -3,8 +3,9 @@ section {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
   background-color: #f9f9f9;
+  margin: 3rem 1rem ;
+  padding: 2rem ;
 }
 
 h1 {
@@ -58,6 +59,50 @@ h1 {
 
 .signup-form button:hover {
   background-color: rgb(0, 123, 255);
+}
+.add-book{
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-height:fit-content;
+}
+
+.add-book form {
+  margin: 1rem;
+}
+
+.add-book label {
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.add-book input {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 100%;
+}
+
+.add-book input:focus {
+  border-color: rgb(0, 123, 255);
+  outline: none;
+}
+
+.add-book button {
+  background-color: rgb(0, 123, 255);
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-book button:hover {
+  background-color: rgb(25, 94, 168);
 }
 
 header {
@@ -123,4 +168,8 @@ footer {
   padding: 10px 0;
   text-align: center;
   margin-top: auto;
+}
+
+.book-card{
+  margin: 1rem;
 }
